@@ -1,0 +1,14 @@
+# Fichiers Python et Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environnement virtuel (très important !)
+.venv/
+venv/
+/env/
+
+# Fichiers sensibles et de données (NE DOIVENT PAS être partagés)
+.env
+*.xlsx
+*.csv  
